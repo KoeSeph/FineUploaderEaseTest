@@ -4,7 +4,7 @@ var fineuploader = require('fineuploader');
 var storage = 'traditional';
 var opts = {
    static: '/var/www/',
-   uploads: '/tmp/uploads'
+   uploads: '/uploads'
 };
 
 // S3 Storage - uncomment below to use an S3 storage backend instead.
