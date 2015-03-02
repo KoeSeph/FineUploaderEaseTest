@@ -207,5 +207,11 @@ INPUT.qq-edit-filename.qq-editing ~ .qq-upload-cancel {
 .qq-hide {
     display: none;
 }
+.thumbnail-fine-uploader {
+    height: 50px;
+    width: 150px;
+    background-color: #f00;
+    border-radius: 3000px;
 
+}
 /*! 2015-02-16 */
