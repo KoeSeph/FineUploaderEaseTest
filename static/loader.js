@@ -11,7 +11,7 @@
         endpoint: '/upload'
       },
       validation: {
-        allowedExtensions: ['jpeg', 'jpg', 'gif', 'png']
+        allowedExtensions: ['jpeg', 'jpg', 'gif', 'png', 'txt', 'webm']
       }
     });
   });
